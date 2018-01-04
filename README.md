@@ -1,2 +1,2 @@
 # helloWorld
-just easy
+just easy input a world
